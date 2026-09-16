@@ -20,7 +20,7 @@ export default {
   // IndexNow 키 — /<키>.txt 로도 응답한다
   indexNowKey: 'd1a7c3e9b5f24d6a8e2c9b4f7a1d3e5c',
   // 본문 "최종 업데이트" 표시와 사이트맵 lastmod
-  updated: '2026-09-14',
+  updated: '2026-09-16',
   mailFrom: 'noreply@gwaeosoksok.com',
   mailTo: 'hhhyunee3@naver.com',
 };
